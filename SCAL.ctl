@@ -1,0 +1,24 @@
+#simsig
+0.4
+#simtau
+0.2
+#simqo
+0.001
+#simao
+1.
+#sim_ro
+12000
+#sim_cr
+10
+#sim_rbar
+12000
+#simahat
+2.0
+#simghat
+0.45
+#simcvgrow
+0.12
+#simF
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+#eofc
+999
